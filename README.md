@@ -34,3 +34,4 @@ Recuerda que la práctica regular y enfocada es más beneficiosa que las sesione
 - [Ejercicios](./Ejercicios.md)
 - [Trailbraking](./Trailbraking.md)
 - [Trazada](./Trazada.md)
+- [Usa Toda La Pista](./PistaCompleta.md)
